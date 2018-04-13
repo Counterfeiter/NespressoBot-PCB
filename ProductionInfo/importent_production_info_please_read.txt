@@ -1,0 +1,20 @@
+Production Info:
+
+- single PCB: Round diameter = 35 mm, 1.0 mm PCB tickness
+
+- white solderstop, black silkscreen (Top, Bottom)
+	-> the top silkscreen (no components) is highly important for this project. Please provide high quality 
+	-> see example pic's. But in this order, there are no hard "text requirements" (smilie mouth)
+	-> Cancel this order if your quality issn't good enought.
+	-> No extra text or marks on the top silkscreen, if your production needs an ID, please put it at the bottom side (see pic's)
+
+- panalize 4x4 PCBs to a stable panel of about 20x20 cm^2 size
+	-> use vertical v-cut in combination with milling the round's/outlines
+	-> please see gerber info-layer for extra information
+	-> keep the PCB's in the panel
+	-> please provide all gerber-layers after panalizing, so I could review and also I could order a stencil with your service later
+	-> if you think the panel is stable enought, please optimize the panel size (smaller then 20x20 cm^2 ?)
+
+- there are two small 2 mm milling paths (2 mm tool)
+	-> see gerber mill layer
+	-> unplated!
